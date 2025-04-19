@@ -1,2 +1,4 @@
 # education-employment-analysis
-Analysis of India's 2021–22 Education and Employment data using Python (Pandas, Matplotlib, Seaborn, Scikit-Learn).
+This project explores the relationship between education and employment across Indian states using 2021–22 data.
+Technologies: Python (Pandas, Seaborn, Matplotlib, Scikit-learn)
+Key findings: Literacy Rate strongly boosts Income Per Capita, but higher education has limited impact on unemployment
